@@ -1,0 +1,18 @@
+.text{
+    padding-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+.myinput input{
+    text-align: center;
+}
+.videobg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: 1;
+    background-size: cover;
+}

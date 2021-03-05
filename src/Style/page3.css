@@ -1,0 +1,17 @@
+.bigCard{
+    margin-top: 50px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.Back{
+    float: left;
+    margin-top: 50px;
+}
+.Next{
+    float: right;
+    margin-top: 50px;
+}
+.center {
+    margin-left: 40%;
+    position: center;
+}

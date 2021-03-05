@@ -1,0 +1,35 @@
+:root {
+    --margin-left-card: 200px;
+}
+.refresh-button{
+    top: 20%;
+    margin: 0;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.menu {
+    float: left;
+    /*background-color: aqua;*/
+    height: 600px;
+    width: var(--margin-left-card);
+    position: fixed;
+
+}
+.cards{
+    height: 16in;
+    margin-left: var(--margin-left-card);
+}
+.Page2Card{
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    height: 380px;
+    width: 200px;
+
+}
+.imgCard{
+    height: 150px;
+    width: 150px;
+}
